@@ -1,0 +1,45 @@
+* Bagel / Toaster / Feta
+KiCad projects files for a 3-in-1 effect pedal:
+1. boost
+2. overdrive/distoriton
+3. fuzzy octave up
+
+Each of these circuits is an original analog design by me. Each effect can be independently engaged or bypassed via 3 footswitches, and there is a toggle to change the order of the boost (first or last) so you can have either:
+
+#+begin_src 
+boost → distortion → octave
+#+end_src
+ 
+or:
+
+#+begin_src 
+distortion → octave → boost 
+#+end_src
+
+Why the weird names? Well first I came up with the overdrive/distortion using a quad op-amp chip. Since I had an extra unused op-amp section, adding a boost in front made sense. I thought the distortion was warm and crispy, so "toaster" made sense. Having the boost in front meant it was going "into" the toaster, like a bagel does. Finally I had a working title of "2fet2furious" for the octave fuzz, but to fit in with the toaster theme it became "feta", which was the closest I could think of to a bagle topping.
+
+** Boost
+Despite having the most clipping diodes of any effect in this bundle, the boost is clean-ish. It's a non-inverting op-amp based boost with LEDs in the feedback loop (like a Tube Screamer) but the gain is dept low so these diodes rarely have an effect. Their purpose is mostly to prevent the opamp from clipping on large inputs. After the op-amp, there is also a diodes-to-ground clipping section, similar to an MXR Distortion+ effect. But rather than causing distortion, these diodes add a supposedly tube-like smidge of dynamic harmonic content. Credit for this concept goes to the wizards at RunOffGroove and their [[https://www.runoffgroove.com/thunderbird.html][Thunderbird]] design.
+
+[[file:./bagel.png]]
+
+** Distortion
+This distortion design eschews most guitar distortion design sensibilities. The signal path starts with a high-impedance buffer to preserve your guitar's high frequencies. Next comes an inverting soft clipping stage with a unique voltage divider gain control. This gain control arrangement permits a wide range of gain adjustment (11dB-40dB) despite using a mere 50k potentiometer in the feedback loop (lower resistance means less thermal noise).
+
+[[file:./toaster.png]]
+
+From there the signal goes through a 2nd-order lowpass filter with a range of adjustment from 500Hz to 2.6kHz. This isn't a large range of sweep but the 12dB/octave slope makes it feel like it covers more sonic ground. This kind of filter is more typically found on analog synthesizer equipment, but I think it works well for guitar.
+
+** Octave Fuzz
+This effect started as an experiment in making a "squarer" circuit. Up front is a JFET buffer and two high-gain CMOS inverter stages. The squarer concept is realized by splitting this amplified signal into two paths and routing each through a pair of series diodes pointed in opposite directions. The negative signal routes straight into the output mixer, while the positive signal gets inverted and then routes through an adjustable potentiometer labeled "Splat" and some series resistance and capacitance. The Splat control allows you to adjust the character of the octave effect - more pronounced octave in one direction, and more compressed and spongy in the other direction.
+
+[[file:./feta.png]]
+
+* Circuit Board Layout
+This is the largest design I've made in KiCad's PCB layout tool to date and I was proud of getting all the traces on a single layer.
+
+[[file:./layout.png]]
+
+KiCad is quirky and I was frustrated to use it at first, but it's growing on me. The 3d rendering tool is especially cool.
+
+[[file:./render.png]]
