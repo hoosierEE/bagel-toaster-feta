@@ -3,6 +3,7 @@
 *.log
 tmp/
 
+_autosave*
 *-backups
 fp-info-cache
 \#auto_saved_files\#
