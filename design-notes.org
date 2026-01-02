@@ -1,0 +1,13 @@
+#+title: Design Notes
+
+From BB:
+
+#+begin_quote
+Ok so here is a pedal I’ve been dreaming up. There are a combination of tones I love, J Mascis of Dino Jr, Neil Young, David Gilmour, early Soundgarden and smashing pumpkins, Lee Renaldo of SY and of course good ole Jerry Garcia. So in a single pedal being able to mix and blend those to a unique tone.
+
+So like a combo clean boost, distortion, fuzz octave. What would be cool is to have the ability to toggle the those 3 components on or off, switch the boost from being the first or last part of the path, let the distortion and fuzz octaver sit in the center of it all. And maybe even the ability to toggle in like voltage slag. There’s a Universal Audio preamp I used in grad school that had a vintage switch that would add some harmonic distortion and compression that also gave a little sag and made me think of having that. 
+#+end_quote
+
+Whether the effects I designed meet this brief or not remains to be seen, but so far I've implemented all of these except the voltage sag feature. That will require some experimentation. When I've seen people implement a voltge "sag" feature it's usually done by adding resistance in series with the power supply. But if you do that for multiple effects all sharing the same power supply, they might feed back into each other. That would generally sound bad, though the large bypass capacitors would limit the effect.
+
+The other thing to consider is where to put such a control. I've got a board layout designed around 6 board-mounted potentiometers. There is room to add an additional pot between the distortion and octave, so physical placement wouldn't be difficult.
