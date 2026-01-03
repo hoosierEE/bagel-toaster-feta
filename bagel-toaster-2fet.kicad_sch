@@ -6682,7 +6682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07084aa0-0075-4778-bfb1-124c037da77b")
-		(property "Reference" "D10"
+		(property "Reference" "D8"
 			(at 71.12 260.3499 90)
 			(effects
 				(font
@@ -6754,7 +6754,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D10")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -6769,7 +6769,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "092792b4-206a-4be3-90ea-102354b0634f")
-		(property "Reference" "C23"
+		(property "Reference" "C22"
 			(at 237.49 190.5 90)
 			(effects
 				(font
@@ -6821,7 +6821,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -6836,7 +6836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0932245b-c317-4673-9214-8830bb5e4073")
-		(property "Reference" "C24"
+		(property "Reference" "C17"
 			(at 43.434 248.92 0)
 			(effects
 				(font
@@ -6890,7 +6890,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C24")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -6906,7 +6906,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0952f90c-fd36-4741-ae89-b9df36790f8a")
-		(property "Reference" "D12"
+		(property "Reference" "D6"
 			(at 196.342 30.734 0)
 			(effects
 				(font
@@ -6967,7 +6967,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D12")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -6982,7 +6982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0962620c-abe4-4676-8a1b-72cf98710be9")
-		(property "Reference" "J26"
+		(property "Reference" "J21"
 			(at 115.57 39.37 0)
 			(effects
 				(font
@@ -7031,7 +7031,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J26")
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -7151,7 +7151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d309964-344a-4c45-b513-ccfcd2b2727a")
-		(property "Reference" "R4"
+		(property "Reference" "R10"
 			(at 295.91 63.4999 0)
 			(effects
 				(font
@@ -7205,7 +7205,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R4")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7221,7 +7221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "108a5d67-084d-4f2c-981e-0652d2c1a907")
-		(property "Reference" "J11"
+		(property "Reference" "J13"
 			(at 80.01 223.5199 90)
 			(effects
 				(font
@@ -7272,7 +7272,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J11")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -7288,7 +7288,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11271418-7ca5-4215-9aa7-d3cc623da6f0")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 99.06 156.21 90)
 			(effects
 				(font
@@ -7340,7 +7340,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -7356,7 +7356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "116f2873-bfde-48a0-a1e7-fbfeb725e577")
-		(property "Reference" "C12"
+		(property "Reference" "C16"
 			(at 342.9 194.31 90)
 			(effects
 				(font
@@ -7408,7 +7408,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C12")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -7528,7 +7528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11967e44-4dda-4de0-a002-2e73af4332f0")
-		(property "Reference" "D11"
+		(property "Reference" "D10"
 			(at 40.64 259.0799 90)
 			(effects
 				(font
@@ -7600,7 +7600,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D11")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -7615,7 +7615,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12351946-5ad6-4e50-8ea2-d87634129a55")
-		(property "Reference" "R7"
+		(property "Reference" "R25"
 			(at 92.202 188.468 90)
 			(effects
 				(font
@@ -7667,7 +7667,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R7")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -7683,7 +7683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13311ab5-ee21-4f03-907a-f8d702a7caf9")
-		(property "Reference" "R11"
+		(property "Reference" "R31"
 			(at 276.86 167.64 90)
 			(effects
 				(font
@@ -7735,7 +7735,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R11")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7751,7 +7751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1714d0cc-2ed3-4153-bad3-032966638d1e")
-		(property "Reference" "J6"
+		(property "Reference" "J3"
 			(at 275.336 103.886 0)
 			(effects
 				(font
@@ -7802,7 +7802,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J6")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -7920,7 +7920,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c681df9-256a-48c4-ae2b-deeab9622a7e")
-		(property "Reference" "J12"
+		(property "Reference" "J15"
 			(at 40.64 275.5899 90)
 			(effects
 				(font
@@ -7971,7 +7971,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J12")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -7987,7 +7987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e47ad4a-c1f4-44b7-928c-c80b18ea6260")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 323.5325 54.61 0)
 			(effects
 				(font
@@ -8048,7 +8048,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -8064,7 +8064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f35a2ae-6466-4b14-b4b0-eab59aae3310")
-		(property "Reference" "D3"
+		(property "Reference" "D5"
 			(at 334.3275 43.18 0)
 			(effects
 				(font
@@ -8125,7 +8125,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D3")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8141,7 +8141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f4aa41b-efa8-4bed-99a5-f97e5b3c47ed")
-		(property "Reference" "R18"
+		(property "Reference" "R12"
 			(at 71.12 162.56 90)
 			(effects
 				(font
@@ -8193,7 +8193,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R18")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -8313,7 +8313,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "210b6511-abf7-4296-bbed-067b5638c5ba")
-		(property "Reference" "C19"
+		(property "Reference" "C9"
 			(at 62.23 156.2099 0)
 			(effects
 				(font
@@ -8367,7 +8367,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C19")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -8384,7 +8384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2655b335-b9ed-46fc-9f2a-31a60ea356d5")
-		(property "Reference" "J32"
+		(property "Reference" "J30"
 			(at 81.28 31.75 0)
 			(effects
 				(font
@@ -8433,7 +8433,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J32")
+					(reference "J30")
 					(unit 1)
 				)
 			)
@@ -8449,7 +8449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28570c1a-2dfe-48b5-9cc7-943629c9b5a3")
-		(property "Reference" "C14"
+		(property "Reference" "C24"
 			(at 276.86 177.8 90)
 			(effects
 				(font
@@ -8501,7 +8501,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C14")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -8517,7 +8517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "292edc10-f33a-46a9-8de1-a3d0282db805")
-		(property "Reference" "J15"
+		(property "Reference" "J16"
 			(at 71.12 275.5899 90)
 			(effects
 				(font
@@ -8568,7 +8568,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J15")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -8584,7 +8584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "298ae03c-fdd6-4f5d-ae6b-2a9a94ca8254")
-		(property "Reference" "C26"
+		(property "Reference" "C23"
 			(at 251.46 177.8 90)
 			(effects
 				(font
@@ -8636,7 +8636,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C26")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -8652,7 +8652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b6fa17d-f787-4e53-8791-694ee0a2de21")
-		(property "Reference" "R6"
+		(property "Reference" "R23"
 			(at 172.72 166.37 90)
 			(effects
 				(font
@@ -8704,7 +8704,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R6")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -8720,7 +8720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2da3f02a-6b58-4866-813a-c65d5b259c9f")
-		(property "Reference" "R19"
+		(property "Reference" "R8"
 			(at 307.34 40.6399 0)
 			(effects
 				(font
@@ -8774,7 +8774,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R19")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -8790,7 +8790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e483d8a-bbee-48bc-9936-f2e90411d835")
-		(property "Reference" "J9"
+		(property "Reference" "J14"
 			(at 185.42 171.4499 0)
 			(effects
 				(font
@@ -8841,7 +8841,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J9")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -8857,7 +8857,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3152961d-f274-40b9-9f06-1a07ef9927f1")
-		(property "Reference" "R32"
+		(property "Reference" "R33"
 			(at 137.16 76.2 90)
 			(effects
 				(font
@@ -8909,7 +8909,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R32")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -8925,7 +8925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32ad0ea0-c63d-4949-a088-039bea76b643")
-		(property "Reference" "R14"
+		(property "Reference" "R2"
 			(at 364.49 30.48 90)
 			(effects
 				(font
@@ -8977,7 +8977,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R14")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9059,7 +9059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34820031-7ca0-4f23-8fc8-c1fc821a5beb")
-		(property "Reference" "J16"
+		(property "Reference" "J20"
 			(at 394.97 207.0099 0)
 			(effects
 				(font
@@ -9110,7 +9110,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J16")
+					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -9230,7 +9230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ed7737-0317-4d57-b0ee-9d4a2a7958d4")
-		(property "Reference" "R28"
+		(property "Reference" "R29"
 			(at 228.6 201.9299 0)
 			(effects
 				(font
@@ -9284,7 +9284,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R28")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -9366,7 +9366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38692acf-07c2-459f-8919-d4a2590d8d54")
-		(property "Reference" "J10"
+		(property "Reference" "J11"
 			(at 72.39 223.5199 90)
 			(effects
 				(font
@@ -9417,7 +9417,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J10")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -9522,7 +9522,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c50cd47-f453-4d25-94c8-071cadca6dbc")
-		(property "Reference" "J14"
+		(property "Reference" "J18"
 			(at 57.15 275.5899 90)
 			(effects
 				(font
@@ -9573,7 +9573,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J14")
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -9588,7 +9588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c8ce3ee-7c38-46d2-b93d-02266d1378e8")
-		(property "Reference" "C22"
+		(property "Reference" "C14"
 			(at 78.994 250.19 0)
 			(effects
 				(font
@@ -9642,7 +9642,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C22")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -9658,7 +9658,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46daa356-44de-414e-8682-ff1a0db63161")
-		(property "Reference" "C16"
+		(property "Reference" "C3"
 			(at 68.58 121.92 90)
 			(effects
 				(font
@@ -9710,7 +9710,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C16")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -9726,7 +9726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a1ab3d1-eeea-4c43-ab68-619ff19efce7")
-		(property "Reference" "R8"
+		(property "Reference" "R28"
 			(at 364.49 186.69 90)
 			(effects
 				(font
@@ -9778,7 +9778,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R8")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -9794,7 +9794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4a9a70f7-cb98-4cfb-a181-b259e8089a11")
-		(property "Reference" "C8"
+		(property "Reference" "C15"
 			(at 81.788 177.8 90)
 			(effects
 				(font
@@ -9848,7 +9848,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C8")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -9968,7 +9968,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c3e414b-32ba-424d-a325-b074092027ac")
-		(property "Reference" "C3"
+		(property "Reference" "C5"
 			(at 291.084 76.454 90)
 			(effects
 				(font
@@ -10022,7 +10022,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C3")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -10038,7 +10038,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d438a65-4527-4edd-bc28-50807a4d6c00")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 85.09 146.05 0)
 			(effects
 				(font
@@ -10108,7 +10108,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D9")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -10400,7 +10400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "535b1801-f7e7-4c6b-b747-a1d58739c55c")
-		(property "Reference" "R31"
+		(property "Reference" "R19"
 			(at 80.01 240.0299 0)
 			(effects
 				(font
@@ -10454,7 +10454,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R31")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -10471,7 +10471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55358436-9e15-468b-b944-fb07955dcb4c")
-		(property "Reference" "J19"
+		(property "Reference" "J23"
 			(at 114.3 60.96 0)
 			(effects
 				(font
@@ -10520,7 +10520,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J19")
+					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -10640,7 +10640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58a2c881-c9b7-4013-8d20-353b0b642c3f")
-		(property "Reference" "D5"
+		(property "Reference" "D12"
 			(at 299.72 175.26 0)
 			(effects
 				(font
@@ -10710,7 +10710,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D5")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -10937,7 +10937,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ef27f2e-1463-4db9-8dc8-59c2111b6def")
-		(property "Reference" "R17"
+		(property "Reference" "R11"
 			(at 80.01 123.19 90)
 			(effects
 				(font
@@ -10989,7 +10989,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R17")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -11004,7 +11004,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62051b03-fbc9-450b-9cb8-9c8f55d7716d")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 242.824 87.884 0)
 			(effects
 				(font
@@ -11055,7 +11055,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11143,7 +11143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "63ec4cba-cf78-46be-ad5f-10c9ebd316df")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 347.98 48.2599 0)
 			(effects
 				(font
@@ -11197,7 +11197,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11213,7 +11213,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "644a27d6-a554-4f7d-902c-e6cec4515571")
-		(property "Reference" "D7"
+		(property "Reference" "D1"
 			(at 373.38 54.6099 90)
 			(effects
 				(font
@@ -11285,7 +11285,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D7")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -11301,7 +11301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6478d993-557b-44fb-9393-969e89f69541")
-		(property "Reference" "C25"
+		(property "Reference" "C19"
 			(at 212.09 184.15 90)
 			(effects
 				(font
@@ -11353,7 +11353,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C25")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -11370,7 +11370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64b51e29-ac04-4816-b1b2-9b3d47ef9bd3")
-		(property "Reference" "J27"
+		(property "Reference" "J24"
 			(at 162.56 44.45 0)
 			(effects
 				(font
@@ -11419,7 +11419,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J27")
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -11434,7 +11434,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65b8eee9-5b88-4317-8f6f-118baf6656ca")
-		(property "Reference" "J18"
+		(property "Reference" "J9"
 			(at 202.946 39.624 0)
 			(effects
 				(font
@@ -11485,7 +11485,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J18")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -11802,7 +11802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ee2b1b0-4249-4c86-9bc5-67906914476c")
-		(property "Reference" "J13"
+		(property "Reference" "J19"
 			(at 201.93 185.42 0)
 			(effects
 				(font
@@ -11851,7 +11851,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J13")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -11867,7 +11867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6feac89d-58ed-40d5-9fd7-42cd4800f9d8")
-		(property "Reference" "R26"
+		(property "Reference" "R21"
 			(at 100.33 146.05 90)
 			(effects
 				(font
@@ -11919,7 +11919,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R26")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -12001,7 +12001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "766d970f-4076-4704-a398-66b94972fca5")
-		(property "Reference" "R16"
+		(property "Reference" "R9"
 			(at 312.42 27.94 90)
 			(effects
 				(font
@@ -12053,7 +12053,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R16")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -12173,7 +12173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "787bca3a-fcfd-46d1-b628-5cc3710eb948")
-		(property "Reference" "C7"
+		(property "Reference" "C12"
 			(at 154.94 137.16 90)
 			(effects
 				(font
@@ -12225,7 +12225,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C7")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12241,7 +12241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bec75ce-8f6d-45f5-b034-cbb9fa6e80d0")
-		(property "Reference" "D4"
+		(property "Reference" "D11"
 			(at 299.72 191.77 0)
 			(effects
 				(font
@@ -12311,7 +12311,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D4")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -12431,7 +12431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e4a8af4-3663-4f95-937b-107f99282a2c")
-		(property "Reference" "J8"
+		(property "Reference" "J10"
 			(at 64.77 223.5199 90)
 			(effects
 				(font
@@ -12482,7 +12482,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J8")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -12498,7 +12498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8219f3ca-2968-4738-88bb-43def6dea58d")
-		(property "Reference" "R30"
+		(property "Reference" "R32"
 			(at 219.71 198.1199 0)
 			(effects
 				(font
@@ -12552,7 +12552,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R30")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -12568,7 +12568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "844ec57f-fe21-44a9-9306-b9faf066dc64")
-		(property "Reference" "C11"
+		(property "Reference" "C20"
 			(at 378.46 194.31 90)
 			(effects
 				(font
@@ -12620,7 +12620,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C11")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -12636,7 +12636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "876b0cb5-3898-4215-aa52-913c903be613")
-		(property "Reference" "C17"
+		(property "Reference" "C4"
 			(at 299.72 26.67 90)
 			(effects
 				(font
@@ -12688,7 +12688,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C17")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -12704,7 +12704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fa8d7c5-2207-487c-8243-9648af10850f")
-		(property "Reference" "C4"
+		(property "Reference" "C6"
 			(at 328.93 64.77 90)
 			(effects
 				(font
@@ -12756,7 +12756,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12772,7 +12772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90c4ef93-9697-4cd0-924c-73a8bcf93159")
-		(property "Reference" "C21"
+		(property "Reference" "C8"
 			(at 110.49 124.46 90)
 			(effects
 				(font
@@ -12824,7 +12824,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C21")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -12841,7 +12841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91c6093b-684d-43b9-a643-fcf0bde69f18")
-		(property "Reference" "J30"
+		(property "Reference" "J28"
 			(at 58.42 33.02 0)
 			(effects
 				(font
@@ -12890,7 +12890,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J30")
+					(reference "J28")
 					(unit 1)
 				)
 			)
@@ -12906,7 +12906,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93cc63df-6053-4221-8869-5bdfd676ad74")
-		(property "Reference" "J4"
+		(property "Reference" "J5"
 			(at 263.906 87.884 0)
 			(effects
 				(font
@@ -12957,7 +12957,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J4")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -13046,7 +13046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9715cc09-866e-4ae2-8473-634c098d65bb")
-		(property "Reference" "D6"
+		(property "Reference" "D2"
 			(at 361.95 54.6099 90)
 			(effects
 				(font
@@ -13118,7 +13118,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D6")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -13133,7 +13133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "98a4635a-1de9-4ff0-961c-f48bcc2339d4")
-		(property "Reference" "R21"
+		(property "Reference" "R16"
 			(at 119.38 125.73 90)
 			(effects
 				(font
@@ -13185,7 +13185,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R21")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -13201,7 +13201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ac8d3ad-f3ba-4c67-bc95-1ceb80029477")
-		(property "Reference" "R24"
+		(property "Reference" "R14"
 			(at 76.2 134.6199 0)
 			(effects
 				(font
@@ -13255,7 +13255,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R24")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -13270,7 +13270,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b89414b-445a-40e4-8a7f-b6a4e6f37aa9")
-		(property "Reference" "J28"
+		(property "Reference" "J25"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -13319,7 +13319,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J28")
+					(reference "J25")
 					(unit 1)
 				)
 			)
@@ -13425,7 +13425,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1e81755-1ff3-46c9-abb1-6c2e07311592")
-		(property "Reference" "R29"
+		(property "Reference" "R30"
 			(at 251.46 167.64 90)
 			(effects
 				(font
@@ -13477,7 +13477,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R29")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -13596,7 +13596,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a7967f3d-deb4-4ebb-8257-80f853db6ae5")
-		(property "Reference" "R9"
+		(property "Reference" "R27"
 			(at 313.69 184.15 90)
 			(effects
 				(font
@@ -13648,7 +13648,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R9")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -13664,7 +13664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9325af1-263d-44e5-bc8d-8217edf2e89c")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 309.88 54.61 90)
 			(effects
 				(font
@@ -13716,7 +13716,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -13821,7 +13821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af647a7f-a8f7-4e2f-bbbd-aa909349e758")
-		(property "Reference" "R22"
+		(property "Reference" "R18"
 			(at 142.24 125.73 90)
 			(effects
 				(font
@@ -13873,7 +13873,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R22")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -13889,7 +13889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0357e56-d9ed-4e9e-b309-0f99495df405")
-		(property "Reference" "R10"
+		(property "Reference" "R26"
 			(at 351.79 195.58 90)
 			(effects
 				(font
@@ -13941,7 +13941,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R10")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -13957,7 +13957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b40d918d-82e6-420c-9358-872db627f1cd")
-		(property "Reference" "C9"
+		(property "Reference" "C25"
 			(at 289.56 190.5 90)
 			(effects
 				(font
@@ -14009,7 +14009,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C9")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -14026,7 +14026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4740ef3-2aab-4966-91ea-bffdae4b0388")
-		(property "Reference" "J25"
+		(property "Reference" "J22"
 			(at 139.7 45.72 0)
 			(effects
 				(font
@@ -14075,7 +14075,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J25")
+					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -14261,7 +14261,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6277e00-b776-4209-a91f-e438f2b7b901")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 209.804 103.886 0)
 			(effects
 				(font
@@ -14312,7 +14312,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -14328,7 +14328,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b639fbf0-97d4-4fc5-8fe9-89e041191548")
-		(property "Reference" "J20"
+		(property "Reference" "J26"
 			(at 139.7 63.5 0)
 			(effects
 				(font
@@ -14377,7 +14377,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J20")
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -14393,7 +14393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7b59f37-4b55-4a3d-8cc9-08b0b484fc18")
-		(property "Reference" "C15"
+		(property "Reference" "C26"
 			(at 264.16 190.5 90)
 			(effects
 				(font
@@ -14445,7 +14445,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C15")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -14461,7 +14461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9fa45ae-88de-4813-adbe-6ca814a486be")
-		(property "Reference" "R13"
+		(property "Reference" "R1"
 			(at 361.95 44.4499 0)
 			(effects
 				(font
@@ -14515,7 +14515,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R13")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -14531,7 +14531,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bb54176a-8449-46b7-91e2-da5b07ba8d28")
-		(property "Reference" "R23"
+		(property "Reference" "R15"
 			(at 82.55 194.056 90)
 			(effects
 				(font
@@ -14583,7 +14583,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R23")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -14599,7 +14599,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf88126f-acdd-42f9-b256-912e04579241")
-		(property "Reference" "R33"
+		(property "Reference" "R34"
 			(at 55.88 63.5 90)
 			(effects
 				(font
@@ -14651,7 +14651,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R33")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -14667,7 +14667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfe8781a-e87e-4507-87ff-e8833342daeb")
-		(property "Reference" "R15"
+		(property "Reference" "R4"
 			(at 373.38 44.4499 0)
 			(effects
 				(font
@@ -14721,7 +14721,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R15")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -14836,7 +14836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c966c97b-d44b-4a16-b197-f6a00263c7f5")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 355.346 71.374 0)
 			(effects
 				(font
@@ -14887,7 +14887,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -14972,7 +14972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca5de62e-b959-4561-9a5e-c70cc6756f19")
-		(property "Reference" "C13"
+		(property "Reference" "C21"
 			(at 364.49 173.99 90)
 			(effects
 				(font
@@ -15024,7 +15024,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C13")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -15243,7 +15243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf949029-b40f-40ee-b534-0289aa623929")
-		(property "Reference" "C18"
+		(property "Reference" "C7"
 			(at 111.76 265.8109 0)
 			(effects
 				(font
@@ -15297,7 +15297,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C18")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -15313,7 +15313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1efd454-a3aa-4e84-a5f7-7acfc1697dd6")
-		(property "Reference" "R5"
+		(property "Reference" "R22"
 			(at 129.54 144.78 90)
 			(effects
 				(font
@@ -15365,7 +15365,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R5")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -15380,7 +15380,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d22e6626-3c17-483e-8208-bc0648e0d0e9")
-		(property "Reference" "J24"
+		(property "Reference" "J7"
 			(at 188.214 54.356 0)
 			(effects
 				(font
@@ -15431,7 +15431,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J24")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -15446,7 +15446,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d47ca00b-38c1-4ea3-8e50-ccd785a1f336")
-		(property "Reference" "J29"
+		(property "Reference" "J27"
 			(at 34.29 26.67 0)
 			(effects
 				(font
@@ -15495,7 +15495,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J29")
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -15511,7 +15511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d824a55f-c3d3-48b6-b402-19895a222071")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 354.33 30.48 90)
 			(effects
 				(font
@@ -15563,7 +15563,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -15899,7 +15899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcb0b796-8e81-4f26-9a09-c7055099fc14")
-		(property "Reference" "J7"
+		(property "Reference" "J12"
 			(at 58.42 223.5199 90)
 			(effects
 				(font
@@ -15950,7 +15950,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J7")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -15965,7 +15965,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de0983f6-c54a-4c0d-b851-93d11316ab48")
-		(property "Reference" "C5"
+		(property "Reference" "C13"
 			(at 127.762 165.354 0)
 			(effects
 				(font
@@ -16019,7 +16019,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C5")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16035,7 +16035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "deab08e8-9795-43e8-906f-9603c469fc7c")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 346.71 82.55 0)
 			(effects
 				(font
@@ -16105,7 +16105,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -16121,7 +16121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e11c4971-0636-49af-8a58-5bc55bd6a6b3")
-		(property "Reference" "R34"
+		(property "Reference" "R13"
 			(at 191.77 40.6401 0)
 			(effects
 				(font
@@ -16175,7 +16175,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R34")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -16280,7 +16280,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7292a09-de6b-4579-9610-89e15b7aefab")
-		(property "Reference" "D8"
+		(property "Reference" "D9"
 			(at 85.09 162.56 0)
 			(effects
 				(font
@@ -16350,7 +16350,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "D8")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -16366,7 +16366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8ef855c-24ca-41d1-b28a-aeffa94a3568")
-		(property "Reference" "C10"
+		(property "Reference" "C18"
 			(at 326.39 190.5 90)
 			(effects
 				(font
@@ -16418,7 +16418,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C10")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -16434,7 +16434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea92483f-6bc9-45f0-9029-1b9f5e318192")
-		(property "Reference" "R27"
+		(property "Reference" "R24"
 			(at 57.15 240.0299 0)
 			(effects
 				(font
@@ -16488,7 +16488,7 @@
 		(instances
 			(project ""
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R27")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -16593,7 +16593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed37a2e5-8e7b-44b4-abc5-ecf39ca2843e")
-		(property "Reference" "R25"
+		(property "Reference" "R17"
 			(at 99.06 264.1599 0)
 			(effects
 				(font
@@ -16647,7 +16647,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R25")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -16662,7 +16662,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed598b8b-bf78-46a3-bb5e-f631c02b3f5a")
-		(property "Reference" "J23"
+		(property "Reference" "J8"
 			(at 202.946 53.594 0)
 			(effects
 				(font
@@ -16713,7 +16713,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J23")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -16729,7 +16729,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed624c1f-7823-4cf6-be11-a0a4ae0901f3")
-		(property "Reference" "J22"
+		(property "Reference" "J32"
 			(at 58.42 50.8 0)
 			(effects
 				(font
@@ -16778,7 +16778,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J22")
+					(reference "J32")
 					(unit 1)
 				)
 			)
@@ -16794,7 +16794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee5085f4-d922-4c8c-9797-2270c691b635")
-		(property "Reference" "J5"
+		(property "Reference" "J6"
 			(at 58.42 123.19 0)
 			(effects
 				(font
@@ -16843,7 +16843,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J5")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -16926,7 +16926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3f7aa3d-d135-4839-8d1e-4856bf792a7b")
-		(property "Reference" "J21"
+		(property "Reference" "J29"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -16975,7 +16975,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "J21")
+					(reference "J29")
 					(unit 1)
 				)
 			)
@@ -17079,7 +17079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4b7c0a3-93a2-4915-93f1-1b28ff24033e")
-		(property "Reference" "C6"
+		(property "Reference" "C11"
 			(at 167.64 158.7499 0)
 			(effects
 				(font
@@ -17133,7 +17133,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "C6")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17149,7 +17149,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc536c91-38dd-4604-9f15-6c787c799c3f")
-		(property "Reference" "R12"
+		(property "Reference" "R5"
 			(at 356.87 83.8201 0)
 			(effects
 				(font
@@ -17203,7 +17203,7 @@
 		(instances
 			(project "bagel-toaster-2fet"
 				(path "/2c5e9241-19ae-4501-a668-86b2c06e9a02"
-					(reference "R12")
+					(reference "R5")
 					(unit 1)
 				)
 			)
