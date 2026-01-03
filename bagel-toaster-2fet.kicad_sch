@@ -10744,7 +10744,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 334.01 201.93 0)
 			(effects
 				(font
@@ -10883,7 +10883,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 382.27 208.28 0)
 			(effects
 				(font
@@ -11088,7 +11088,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 66.04 233.68 0)
 			(effects
 				(font
@@ -11097,7 +11097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 66.04 233.68 0)
 			(effects
 				(font
@@ -11106,7 +11106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Potentiometer"
+		(property "Description" ""
 			(at 66.04 233.68 0)
 			(effects
 				(font
@@ -11747,7 +11747,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 100.33 184.15 0)
 			(effects
 				(font
@@ -12764,7 +12764,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 110.49 132.08 90)
+		(at 119.38 132.08 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12773,7 +12773,7 @@
 		(fields_autoplaced yes)
 		(uuid "90c4ef93-9697-4cd0-924c-73a8bcf93159")
 		(property "Reference" "C8"
-			(at 110.49 124.46 90)
+			(at 119.38 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12781,7 +12781,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 110.49 127 90)
+			(at 119.38 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12789,7 +12789,7 @@
 			)
 		)
 		(property "Footprint" "1_trevortjes_lib:C_CERAMIC_1x2"
-			(at 114.3 131.1148 0)
+			(at 115.57 133.0452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12798,7 +12798,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 132.08 0)
+			(at 119.38 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12807,7 +12807,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 110.49 132.08 0)
+			(at 119.38 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12991,7 +12991,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 163.83 172.72 0)
 			(effects
 				(font
@@ -13126,7 +13126,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 119.38 132.08 90)
+		(at 110.49 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13134,7 +13134,7 @@
 		(dnp no)
 		(uuid "98a4635a-1de9-4ff0-961c-f48bcc2339d4")
 		(property "Reference" "R16"
-			(at 119.38 125.73 90)
+			(at 110.49 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13142,7 +13142,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 119.38 128.27 90)
+			(at 110.49 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13150,7 +13150,7 @@
 			)
 		)
 		(property "Footprint" "1_trevortjes_lib:R_1x4"
-			(at 119.38 133.858 90)
+			(at 110.49 133.858 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13159,7 +13159,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 132.08 0)
+			(at 110.49 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13168,7 +13168,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 119.38 132.08 0)
+			(at 110.49 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15686,7 +15686,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 316.23 90.17 0)
 			(effects
 				(font
@@ -17396,7 +17396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
+		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
 			(at 138.43 151.13 0)
 			(effects
 				(font
