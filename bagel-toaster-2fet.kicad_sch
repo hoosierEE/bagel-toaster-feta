@@ -6489,16 +6489,6 @@
 		)
 		(uuid "0ee06ccf-16f3-42ea-85b4-983e53b1783c")
 	)
-	(label "sg1"
-		(at 27.94 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "192da176-4fdc-41f9-a60a-c68cb54c6368")
-	)
 	(label "vref"
 		(at 55.88 121.92 0)
 		(effects
@@ -6528,16 +6518,6 @@
 			(justify left bottom)
 		)
 		(uuid "501bdf10-cf61-4027-ba6a-04189ca75183")
-	)
-	(label "sg3"
-		(at 189.23 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5214ce52-3c7e-4eab-acf1-b26e5aef2367")
 	)
 	(label "v1"
 		(at 224.79 189.23 0)
@@ -6588,16 +6568,6 @@
 			(justify left bottom)
 		)
 		(uuid "79e5083e-ef63-4003-94c1-2e4e2f4088ba")
-	)
-	(label "sg2"
-		(at 109.22 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7fe10de4-3bc5-4d27-8708-2367b720aaac")
 	)
 	(label "fx_in"
 		(at 232.41 110.49 0)
