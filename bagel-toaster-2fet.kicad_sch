@@ -5,7 +5,7 @@
 	(uuid "2c5e9241-19ae-4501-a668-86b2c06e9a02")
 	(paper "A3")
 	(title_block
-		(title "Toaster Feta Bagel")
+		(title "Bagel Toaster Feta (Bagel)")
 		(date "2025-12-27")
 		(rev "0")
 		(company "Shroyer Technology LLC")
@@ -7105,7 +7105,7 @@
 		(at 53.34 219.71 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7128,7 +7128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 53.34 219.71 0)
 			(effects
 				(font
@@ -7137,7 +7137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 53.34 219.71 0)
 			(effects
 				(font
@@ -7146,7 +7146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "9v"
 			(at 53.34 219.71 0)
 			(effects
 				(font
@@ -7548,7 +7548,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1714d0cc-2ed3-4153-bad3-032966638d1e")
@@ -7559,6 +7559,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "out"
@@ -7568,9 +7569,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 295.91 116.84 0)
 			(effects
 				(font
@@ -7579,7 +7581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 295.91 116.84 0)
 			(effects
 				(font
@@ -7588,13 +7590,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 295.91 116.84 0)
+		(property "Description" "ot"
+			(at 298.704 116.586 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7717,7 +7718,7 @@
 		(at 52.07 271.78 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1c681df9-256a-48c4-ae2b-deeab9622a7e")
@@ -7739,7 +7740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 52.07 271.78 0)
 			(effects
 				(font
@@ -7748,7 +7749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 52.07 271.78 0)
 			(effects
 				(font
@@ -7757,7 +7758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "G"
 			(at 52.07 271.78 0)
 			(effects
 				(font
@@ -8315,7 +8316,7 @@
 		(at 86.36 271.78 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8338,7 +8339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 86.36 271.78 0)
 			(effects
 				(font
@@ -8347,7 +8348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 86.36 271.78 0)
 			(effects
 				(font
@@ -8356,7 +8357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "G"
 			(at 86.36 271.78 0)
 			(effects
 				(font
@@ -8588,7 +8589,7 @@
 		(at 162.56 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8602,7 +8603,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "o1b"
+		(property "Value" "to"
 			(at 165.1 154.9399 0)
 			(effects
 				(font
@@ -8611,7 +8612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 162.56 153.67 0)
 			(effects
 				(font
@@ -8620,7 +8621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 162.56 153.67 0)
 			(effects
 				(font
@@ -8629,7 +8630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "to"
 			(at 162.56 153.67 0)
 			(effects
 				(font
@@ -8791,7 +8792,7 @@
 		(at 391.16 217.17 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8805,7 +8806,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "o2b"
+		(property "Value" "fo"
 			(at 393.7 218.4399 0)
 			(effects
 				(font
@@ -8814,7 +8815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 391.16 217.17 0)
 			(effects
 				(font
@@ -8823,7 +8824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 391.16 217.17 0)
 			(effects
 				(font
@@ -8832,7 +8833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "fo"
 			(at 391.16 217.17 0)
 			(effects
 				(font
@@ -9098,7 +9099,7 @@
 		(at 45.72 219.71 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9121,7 +9122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 45.72 219.71 0)
 			(effects
 				(font
@@ -9130,7 +9131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 45.72 219.71 0)
 			(effects
 				(font
@@ -9139,7 +9140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "9v"
 			(at 45.72 219.71 0)
 			(effects
 				(font
@@ -9255,7 +9256,7 @@
 		(at 63.5 271.78 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3c50cd47-f453-4d25-94c8-071cadca6dbc")
@@ -9277,7 +9278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 63.5 271.78 0)
 			(effects
 				(font
@@ -9286,7 +9287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 63.5 271.78 0)
 			(effects
 				(font
@@ -9295,7 +9296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "G"
 			(at 63.5 271.78 0)
 			(effects
 				(font
@@ -9933,7 +9934,7 @@
 		(at 105.41 271.78 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9956,7 +9957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 105.41 271.78 0)
 			(effects
 				(font
@@ -9965,7 +9966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 105.41 271.78 0)
 			(effects
 				(font
@@ -9974,7 +9975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "G"
 			(at 105.41 271.78 0)
 			(effects
 				(font
@@ -10499,7 +10500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "splat"
 			(at 331.47 213.36 0)
 			(effects
 				(font
@@ -10706,7 +10707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "oct.vol"
 			(at 381 217.17 0)
 			(effects
 				(font
@@ -10738,17 +10739,18 @@
 		(at 265.43 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "62051b03-fbc9-450b-9cb8-9c8f55d7716d")
 		(property "Reference" "J2"
-			(at 259.334 106.934 0)
+			(at 263.144 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "do_snd"
@@ -10758,9 +10760,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 265.43 102.87 0)
 			(effects
 				(font
@@ -10769,7 +10772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 265.43 102.87 0)
 			(effects
 				(font
@@ -10778,13 +10781,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 265.43 102.87 0)
+		(property "Description" "sd"
+			(at 265.176 100.076 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10844,7 +10846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "sag"
 			(at 74.93 228.6 0)
 			(effects
 				(font
@@ -11173,7 +11175,7 @@
 		(dnp no)
 		(uuid "65b8eee9-5b88-4317-8f6f-118baf6656ca")
 		(property "Reference" "J9"
-			(at 190.246 42.164 0)
+			(at 193.294 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11182,7 +11184,7 @@
 			)
 		)
 		(property "Value" "9v"
-			(at 190.246 44.704 0)
+			(at 197.358 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11503,7 +11505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "gain"
 			(at 82.55 165.1 0)
 			(effects
 				(font
@@ -11535,7 +11537,7 @@
 		(at 200.66 196.85 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11548,7 +11550,7 @@
 				)
 			)
 		)
-		(property "Value" "i2b"
+		(property "Value" "fi"
 			(at 200.66 193.04 0)
 			(effects
 				(font
@@ -11556,7 +11558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 200.66 196.85 0)
 			(effects
 				(font
@@ -11565,7 +11567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 200.66 196.85 0)
 			(effects
 				(font
@@ -11574,7 +11576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "fi"
 			(at 200.66 196.85 0)
 			(effects
 				(font
@@ -12096,7 +12098,7 @@
 		(at 38.1 219.71 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12119,7 +12121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 38.1 219.71 0)
 			(effects
 				(font
@@ -12128,7 +12130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 38.1 219.71 0)
 			(effects
 				(font
@@ -12137,7 +12139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "9v"
 			(at 38.1 219.71 0)
 			(effects
 				(font
@@ -12574,7 +12576,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "93cc63df-6053-4221-8869-5bdfd676ad74")
@@ -12585,6 +12587,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "do_rtn"
@@ -12594,9 +12597,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 274.32 102.87 0)
 			(effects
 				(font
@@ -12605,7 +12609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 274.32 102.87 0)
 			(effects
 				(font
@@ -12614,13 +12618,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 274.32 102.87 0)
+		(property "Description" "rn"
+			(at 274.32 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12681,7 +12684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "drive.vol"
 			(at 143.51 153.67 0)
 			(effects
 				(font
@@ -13927,7 +13930,7 @@
 		(at 222.25 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b6277e00-b776-4209-a91f-e438f2b7b901")
@@ -13938,6 +13941,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "in"
@@ -13947,9 +13951,10 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 222.25 116.84 0)
 			(effects
 				(font
@@ -13958,7 +13963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 222.25 116.84 0)
 			(effects
 				(font
@@ -13967,13 +13972,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 222.25 116.84 0)
+		(property "Description" "in"
+			(at 219.456 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14502,7 +14506,7 @@
 		(at 375.92 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c966c97b-d44b-4a16-b197-f6a00263c7f5")
@@ -14513,18 +14517,20 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "bs"
+		(property "Value" "bx"
 			(at 371.856 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 375.92 92.71 0)
 			(effects
 				(font
@@ -14533,7 +14539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 375.92 92.71 0)
 			(effects
 				(font
@@ -14542,13 +14548,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 375.92 92.71 0)
+		(property "Description" "bx"
+			(at 378.714 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15051,7 +15056,7 @@
 		(dnp no)
 		(uuid "d22e6626-3c17-483e-8208-bc0648e0d0e9")
 		(property "Reference" "J7"
-			(at 175.514 56.896 0)
+			(at 172.212 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15059,13 +15064,14 @@
 				(justify left)
 			)
 		)
-		(property "Value" "bs"
-			(at 175.514 54.356 0)
+		(property "Value" "bx"
+			(at 172.974 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "1_trevortjes_lib:PAD_1_std_sqr"
@@ -15086,13 +15092,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 171.45 50.8 0)
+		(property "Description" "bx"
+			(at 168.656 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15374,7 +15379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "boost"
 			(at 332.74 105.41 0)
 			(effects
 				(font
@@ -15444,7 +15449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "order"
 			(at 259.08 128.27 0)
 			(effects
 				(font
@@ -15564,7 +15569,7 @@
 		(at 31.75 219.71 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15587,7 +15592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 31.75 219.71 0)
 			(effects
 				(font
@@ -15596,7 +15601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 31.75 219.71 0)
 			(effects
 				(font
@@ -15605,7 +15610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "9v"
 			(at 31.75 219.71 0)
 			(effects
 				(font
@@ -15895,7 +15900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "order"
 			(at 279.4 128.27 0)
 			(effects
 				(font
@@ -16333,7 +16338,7 @@
 		(dnp no)
 		(uuid "ed598b8b-bf78-46a3-bb5e-f631c02b3f5a")
 		(property "Reference" "J8"
-			(at 190.246 56.134 0)
+			(at 193.294 56.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16342,7 +16347,7 @@
 			)
 		)
 		(property "Value" "gnd"
-			(at 190.246 58.674 0)
+			(at 196.596 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16459,7 +16464,7 @@
 		(at 40.64 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16472,7 +16477,7 @@
 				)
 			)
 		)
-		(property "Value" "i1b"
+		(property "Value" "bi"
 			(at 40.64 106.68 0)
 			(effects
 				(font
@@ -16480,7 +16485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm_Relief"
+		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm"
 			(at 40.64 110.49 0)
 			(effects
 				(font
@@ -16489,7 +16494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 40.64 110.49 0)
 			(effects
 				(font
@@ -16498,7 +16503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "bi"
 			(at 40.64 110.49 0)
 			(effects
 				(font
@@ -16923,7 +16928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "order"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -17084,7 +17089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "filter"
 			(at 118.11 132.08 0)
 			(effects
 				(font
