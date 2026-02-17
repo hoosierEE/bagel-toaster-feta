@@ -10828,7 +10828,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "1_mylib-footprint:pot-16mm-short-leg"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical"
 			(at 74.93 228.6 0)
 			(effects
 				(font
@@ -10846,7 +10846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "sag"
+		(property "Description" ""
 			(at 74.93 228.6 0)
 			(effects
 				(font
