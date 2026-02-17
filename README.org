@@ -38,9 +38,11 @@ This effect started as an experiment in making a "squarer" circuit. Up front is 
 * Circuit Board Layout
 This is the largest design I've made in KiCad's PCB layout tool to date and I was proud of getting all the traces on a single layer.
 
-[[file:./btf-layout.png]]
+[[file:./1590xx-layout.png]]
 
 KiCad is quirky and frustrating at first, but it's growing on me. The 3d rendering tool is especially cool.
 
 [[file:./btf-render-back.png]]
 [[file:./btf-render-front.png]]
+
+Next step is to have the board fabricated. I used OSH Park last time and the results were good but not fast. Might try a different one this time.
