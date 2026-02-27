@@ -40,9 +40,16 @@ This is the largest design I've made in KiCad's PCB layout tool to date and I wa
 
 [[file:./1590xx-layout.png]]
 
+However, eventually I caved and went with a dual layer because it let me make the board more compact and route some of the signals a little more cleanly.
+[[file:./bbtc-layout.png]]
+
+
 KiCad is quirky and frustrating at first, but it's growing on me. The 3d rendering tool is especially cool.
 
-[[file:./btf-render-back.png]]
-[[file:./btf-render-front.png]]
+[[file:./bbtc-back.png]]
+[[file:./bbtc-front.png]]
+
+# [[file:./btf-render-back.png]]
+# [[file:./btf-render-front.png]]
 
 Next step is to have the board fabricated. I used OSH Park last time and the results were good but not fast. Might try a different one this time.
