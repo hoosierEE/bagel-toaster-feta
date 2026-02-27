@@ -32,6 +32,10 @@ Controls:
 ** Distortion
 This distortion design eschews most guitar distortion design sensibilities. The signal path starts with a high-impedance buffer to preserve your guitar's high frequencies. Next comes an inverting soft clipping stage with a unique voltage divider gain control. This gain control arrangement permits a wide range of gain adjustment (11dB-40dB) despite using a mere 50k potentiometer in the feedback loop (lower resistance means less thermal noise).
 
+#+begin_quote
+One note regarding the schematic. The current-limiting resistor in series with the clipping diodes can be anywhere from 1k to 10k depending on mood. The original value (10k) encourages a softer clipping sound whereas lower values down to 1k will be harsher and more aggressive.
+#+end_quote
+
 [[file:./toaster.png]]
 
 From there the signal goes through a 2nd-order lowpass filter with a range of adjustment from 500Hz to 2.6kHz. This isn't a large range of sweep but the 12dB/octave slope makes it feel like it covers more sonic ground. This kind of filter is more typically found on analog synthesizer equipment, but I think it works well for guitar.
