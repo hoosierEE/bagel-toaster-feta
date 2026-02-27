@@ -4,7 +4,8 @@ KiCad projects files for a 3-in-1 effect pedal:
 2. overdrive/distoriton
 3. fuzzy octave up
 
-Each of these circuits is an original analog design by me. Each effect can be independently engaged or bypassed via 3 footswitches, and there is a toggle to change the order of the boost (first or last) so you can have either:
+Each of these circuits is an original analog design by me.
+Each effect can be independently engaged or bypassed via 3 footswitches, and there is a toggle to change the order of the boost (first or last) so you can have either:
 
 #+begin_src 
 boost → distortion → octave
@@ -15,6 +16,8 @@ or:
 #+begin_src 
 distortion → octave → boost 
 #+end_src
+
+Finally, there is a "sag" control to starve the pedal of power. No idea what that will sound like yet as I've not even prototyped it. In theory it should increase distortion and maybe add some subtle compression type effect.
 
 Called "BB Triple Combo" because the overall design was at the request of an internet friend with these initials.
 
